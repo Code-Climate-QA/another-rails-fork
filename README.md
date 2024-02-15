@@ -22,6 +22,8 @@ Although most Rails models are backed by a database, models can also be ordinary
 Ruby classes, or Ruby classes that implement a set of interfaces as provided by
 the [Active Model](activemodel/README.rdoc) module.
 
+THIS IS AN EDIT
+
 ## View layer
 
 The _**View layer**_ is composed of "templates" that are responsible for providing
