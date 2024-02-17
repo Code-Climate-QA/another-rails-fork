@@ -5,6 +5,8 @@
 
 ## How to contribute to Ruby on Rails
 
+Update contributions
+
 #### **Did you find a bug?**
 
 * **Do not open up a GitHub issue if the bug is a security vulnerability
